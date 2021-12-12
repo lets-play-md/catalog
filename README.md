@@ -1,1 +1,1 @@
-# Web catalog of games
+# Board games web catalog
