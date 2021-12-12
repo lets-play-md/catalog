@@ -1,2 +1,1 @@
-# catalog
-Web catalog of games
+# Web catalog of games
